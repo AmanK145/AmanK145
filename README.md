@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmanK145
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
